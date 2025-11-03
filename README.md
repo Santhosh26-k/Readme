@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **Santhoshkumar K**, a passionate developer from Tamil Nadu! 🚀 I love crafting innovative solutions and exploring new technologies. Let's connect and create something amazing together!
+I'm **Santhoshkumar K**, a passionate developer  🚀 I love crafting innovative solutions and exploring new technologies. Let's connect and create something amazing together!
 
 ## About Me
 
@@ -8,8 +8,12 @@ I'm a software developer with a keen interest in building impactful projects. I 
 
 ## Skills & Technologies
 
-html,css,flask,git,github,docker,vue,react,mysql,postgres,linux,aws,fastapi
-
+ Programming Languages : Java, Python
+ Web Development : HTML, CSS, JavaScript, React JS
+ Database Technologies : SQL, MySQL
+ Design Tool : Figma, Framer, WordPress, Canva 
+ Concepts & Techniques : Web Development Fundamentals (HTML,CSS,JS), Responsive & User-Friendly Application Design, Version Control (Git),  Problem Solving & Logical Thinking.
+ 
 ## Top Projects
 
 - [Print-Connect](https://github.com/Santhosh26-k/Print-Connect) - A project to streamline printing processes. ⭐️ 0 stars | Language: Not specified
@@ -32,4 +36,5 @@ No recent blog posts available.
 
 ## Connect with Me
 
-{"generic":"https://santhosh26-k.github.io/New-Portfolio/"}
+{"Linkedin":"https://www.linkedin.com/in/santhosh26k"}
+{"Portfolio":"https://santhosh26-k.github.io/New-Portfolio/"}
